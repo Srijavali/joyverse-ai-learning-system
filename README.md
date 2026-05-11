@@ -126,6 +126,18 @@ The system includes:
 <img width="948" height="460" alt="image" src="https://github.com/user-attachments/assets/4f99272c-a160-4856-a3ab-0ebad72e33fd" />
 
 
+
+
+### Pipeline Flow
+
+1. User interacts with gamified learning tasks
+2. MediaPipe extracts facial landmarks
+3. Behavioral features are generated
+4. Vision Transformer analyzes engagement patterns
+5. Analytics engine processes interaction signals
+6. Therapist and parent dashboards visualize insights
+
+
 ---
 
 # 🔬 AI/ML Pipeline
