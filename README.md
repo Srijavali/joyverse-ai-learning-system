@@ -121,6 +121,11 @@ The system includes:
 - Therapist and parent dashboards
 - AI-driven cognitive interaction analysis
 
+
+
+<img width="948" height="460" alt="image" src="https://github.com/user-attachments/assets/4f99272c-a160-4856-a3ab-0ebad72e33fd" />
+
+
 ---
 
 # 🔬 AI/ML Pipeline
